@@ -90,6 +90,7 @@ body {
 .imgHeader {
   width: 100%;
   text-align: center;
+  padding: 5rem 0;
 }
 
 .imgHeader img {
@@ -98,7 +99,7 @@ body {
 
 @media only screen and (max-width: 48em) {
   .imgHeader img {
-    width: 100%;
+    width: 90%;
   }
 }
 
@@ -140,5 +141,13 @@ body {
 .text .text-content .para-5 ul {
   margin-left: 2rem;
   font-weight: 400;
+}
+
+.text span {
+  font-size: 2.4rem;
+}
+
+.text .text-content ul li {
+  font-size: 1.8 rem;
 }
 /*# sourceMappingURL=style.css.map */
